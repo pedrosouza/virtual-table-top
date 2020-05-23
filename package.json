@@ -1,0 +1,23 @@
+{
+  "name": "virtual-table-top",
+  "version": "0.0.1",
+  "description": "Basic virtual table top platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/pedrosouza/virtual-table-top.git",
+  "keywords": [
+    "virtual table top",
+    "VTT",
+    "RPG",
+    "DND",
+    "board games"
+  ],
+  "author": "Pedro Souza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pedrosouza/virtual-table-top/issues"
+  },
+  "homepage": "https://github.com/pedrosouza/virtual-table-top#readme"
+}

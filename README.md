@@ -1,2 +1,2 @@
-# virtual-table-top
+# Virtual Table Top
 Basic virtual table top platform
